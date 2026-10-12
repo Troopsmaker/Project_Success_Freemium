@@ -1,0 +1,46 @@
+# License — Project Success Public Preview (Dual-Purpose, Freemium)
+
+> **Read this before you copy, fork, teach, or rebuild anything from this repository.**
+
+## 1. The short version
+- **You may** read, learn from, and personally practice the **free sample content** in this repo.
+- **You may NOT** commercially redistribute, republish, create derivatives-for-sale, or use this content to build a competing course/product.
+- You may **NOT** infer, extract, or reconstruct the paid/proprietary curriculum (its chapters, insights, solutions, project internals, or execution engine) from this preview. The boundary between "free preview" and "paid curriculum" is intentional and enforced.
+
+## 2. The free content license (what's in this repo)
+The files in this repository (the "Free Public Content") are released under the terms below:
+
+```
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
++ Additional Repository-Specific Restrictions (below).
+```
+
+- **BY (Attribution):** you must credit the author/origin when sharing the free content.
+- **NC (NonCommercial):** you may not use it for commercial purposes (selling, monetizing, or deriving a paid product from it).
+- **ND (NoDerivatives):** you may not remix, transform, or build upon the free content and redistribute it.
+
+The full CC BY-NC-ND 4.0 legal text applies and governs the Free Public Content.
+
+## 3. The proprietary boundary (what is NOT licensed by this file)
+This repository is a **deliberately gated preview**. The following are the sole property of the author and are **not** granted under this license in whole or in part:
+- The **full 180-Day Master Curriculum** and its 1,034 chapters (not shipped here).
+- Every **"Senior Dev Insight"** and each chapter's interview payload.
+- The **daily execution engine**, the progress/KPI system, and the internal planning documents.
+- The **complete project builds** (source, architecture, failure-mode analysis, deep-dive interview answers).
+- The **application, interview, negotiation, and knowledge-gap playbooks**.
+- The **course materials** referenced under the paid tier.
+
+None of the above may be inferred, reverse-engineered, reassembled, cloned, or reconstructed from this preview — including by automated/AI tooling. The presence or absence of any content in this repo must not be used to imply the scope of the paid curriculum.
+
+## 4. AI / tooling anti-circumvention clause
+Automated systems (including large language models, scrapers, and code-synthesizers) are **prohibited** from using this repository as a basis to reproduce, restructure, or approximate the licensed-out materials described in §3. This clause is part of the license and applies even where the source content is not present in full.
+
+## 5. No warranty
+The Free Public Content is provided "as-is", without warranty of any kind, express or implied, including but not limited to accuracy, merchantability, or fitness for a particular purpose. The author is not liable for any claim, damages, or other liability arising from use of this repository.
+
+## 6. Contact
+For licensing, the paid curriculum, or permissions beyond what this license allows, contact the repository owner before any use.
+
+---
+
+*© Project Success. All rights reserved in full except the Free Public Content remitted under §2.*

@@ -1,0 +1,34 @@
+# This public repo is a deliberately gated preview.
+# If you copy anything in here from the private Project_Success work,
+# STOP — that content must never be committed to this repository.
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local tooling / caches
+.DS_Store
+node_modules/
+build/
+dist/
+*.log
+
+# Never commit the private curriculum or prompts here
+MASTER_PROMPT*
+SESSION_BOOTSTRAP*
+SYSTEM_PROMPT*
+PROJECT_SUCCESS_KNOWLEDGE*
+VIBE_BUILD*
+180_Day_Master_Curriculum*
+**/Progress/Daily*
+**/Applications/Week*
+**/Interview/Week*
+**/DSA/Day*
+**/Python/Day*
+**/Go/Day*
+**/SQL/Day*
+**/Flutter/Day*
+**/CS/Day*
